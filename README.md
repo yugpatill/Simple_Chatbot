@@ -11,3 +11,4 @@ This is a simple command-line chatbot built with Python. It uses basic pattern m
 - Exit anytime by typing `bye`
 
 ---
+![Chatbot Demo](chatbot_demo.png)
